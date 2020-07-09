@@ -1,5 +1,5 @@
 ![It's a pic!](https://github.com/atoleco/atoleco/blob/master/images/header.jpg)
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **atoleco/atoleco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Fun fact: there is no fun fact!
+## There is no fun fact!
