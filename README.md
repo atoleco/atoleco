@@ -1,4 +1,4 @@
-![It's a pic!](https://github.com/atoleco/atoleco/blob/master/images/header.jpg)
+![It's a pic!](https://pbs.twimg.com/profile_banners/1059607103470395392/1598854114/1500x500)
 # Hi there 👋
 
 <!--
