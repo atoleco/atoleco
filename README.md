@@ -17,10 +17,9 @@
 </a>
 </p>
 
-Find me on [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
+### Connect with Me
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-[1]: https://twitter.com/nferdazel
-[2]: https://www.linkedin.com/in/fredianto
+<p align="center">
+<a href="https://linkedin.com/in/fredianto"><img src="https://img.shields.io/badge/-Fredianto-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:fredianto@tutanota.com"><img src="https://img.shields.io/badge/-fredianto@tutanota.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
