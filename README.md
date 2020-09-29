@@ -1,5 +1,12 @@
-![Header Picture](https://pbs.twimg.com/profile_banners/1059607103470395392/1598854114/1500x500)
+### About Me
+Hi I’m Fredi, a software engineer, perhaps. I love working with Flask, Flutter, and Python. I'm passionate about film-making and food and truly believe that learning never stops.
 
-[![Twitter Badge](https://img.shields.io/badge/-nferdazel-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/nferdazel)](https://twitter.com/nferdazel) [![Linkedin Badge](https://img.shields.io/badge/-Fredianto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fredianto//)](https://www.linkedin.com/in/fredianto/)
+• How to reach me: [LinkedIn](https://www.linkedin.com/in/fredianto) | [Twitter](https://twitter.com/nferdazel) | fredianto@tutanota.com
 
-# Hello, folks!
+### Deployed Projects
+
+• Updated soon
+
+### Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nferdazel&layout=compact)](https://github.com/nferdazel)
