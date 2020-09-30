@@ -7,6 +7,4 @@ Hi I’m Fredi, a software engineer, perhaps. I love working with Flask, Flutter
 
 • Updated soon
 
-### Languages
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nferdazel&layout=compact)](https://github.com/nferdazel)
