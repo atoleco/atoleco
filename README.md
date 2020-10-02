@@ -3,4 +3,4 @@ Hi I’m Fredi, a software engineer, perhaps. I love working with Flask, Flutter
 
 Reach me at [LinkedIn](https://www.linkedin.com/in/fredianto) • [Twitter](https://twitter.com/nferdazel) • fredianto@tutanota.com
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=nferdazel&show_icons=true&theme=vue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nferdazel&layout=compact&hide=html,css)]
+![Github stats](https://github-readme-stats.vercel.app/api?username=nferdazel) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nferdazel&layout=compact&hide=html,css)
